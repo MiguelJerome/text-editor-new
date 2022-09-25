@@ -28,6 +28,7 @@ NPM package requires for this project are :
 ## Contribution Guidelines
 * This is a final product that is ready to be used.
 * [Text-Editor-PWA-Ressources Git Hub](https://github.com/MiguelJerome/text-editor-new)
+* [Text-Editor-PWA-Ressources Heroku](https://intense-river-11690.herokuapp.com/)
 
 ## Test Instructions
 * This Text Editor PWA works is also ready to be used and features several valuable methods for storing and retrieving data.
