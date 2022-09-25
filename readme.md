@@ -1,5 +1,5 @@
 # Text Editor PWA
-![Text Editor PWA]( ) 
+![Text Editor PWA](./img/Screenshot%202022-09-25%20061952.png ) 
 
 ## Table of Contents
 * [Text Editor PWA](#Text-Editor-PWA)
